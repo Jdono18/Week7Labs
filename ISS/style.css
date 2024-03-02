@@ -1,0 +1,13 @@
+#iss-map{
+    height: 550px;
+    width: 750px;
+    border: 1px black solid;
+}
+
+h1{
+    font-size: 50px;
+}
+
+h2{
+    font-size: 20px;
+}
