@@ -1,0 +1,48 @@
+body{
+    background-color: whitesmoke;
+}
+
+h1{
+    text-align: center;
+    font-size: 48px;
+}
+
+#weather-forecast{
+    position: relative;
+    align-content: center;
+    border: solid black;
+    width: 90%;
+    margin: auto;
+    padding: 10px;
+}
+
+table, tr, th, td{
+    font-size: 26px;
+    border: 3px solid black;
+    margin:
+    //border-collapse: collapse;
+}
+
+th{
+    font-size: 32px;
+    font-weight: bolder;
+    color: black;
+    background: lightgrey;
+    width: 800px;
+    padding: 15px;
+    text-align: center;
+}
+td{
+    font-size: 22px;
+    background: ghostwhite;
+    width: 800px;
+    color: black;
+    font-weight: bolder;
+    margin: 5px;
+    padding: 15px;
+    text-align: left;
+}
+
+cite{
+    font-size: 22px;
+}
