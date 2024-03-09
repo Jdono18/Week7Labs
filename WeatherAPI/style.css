@@ -5,6 +5,8 @@ body{
 h1{
     text-align: center;
     font-size: 48px;
+    font-weight: bolder;
+    text-decoration: underline;
 }
 
 #weather-forecast{
@@ -19,8 +21,6 @@ h1{
 table, tr, th, td{
     font-size: 26px;
     border: 3px solid black;
-    margin:
-    //border-collapse: collapse;
 }
 
 th{
@@ -28,14 +28,13 @@ th{
     font-weight: bolder;
     color: black;
     background: lightgrey;
-    width: 800px;
     padding: 15px;
     text-align: center;
 }
 td{
     font-size: 22px;
     background: ghostwhite;
-    width: 800px;
+    /*width: 800px;*/
     color: black;
     font-weight: bolder;
     margin: 5px;
@@ -45,4 +44,12 @@ td{
 
 cite{
     font-size: 22px;
+}
+
+img{
+    border: 2px black solid;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 85%;
 }
