@@ -7,7 +7,7 @@ The World Bank doesn't list a capital city for some of the countries in the list
 linked to above, so those have been removed from the array of data. 
 */
 
-let countriesAndCodes = [
+let countriesAndCodes = [  // array that includes country name and country code objects
     {"name":"Afghanistan", "alpha-2":"AF", "country-code":"004"},
     {"name":"Albania", "alpha-2":"AL", "country-code":"008"},
     {"name":"Algeria", "alpha-2":"DZ", "country-code":"012"},
